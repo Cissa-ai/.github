@@ -23,7 +23,9 @@ Export your archive in CCF, Cissa's open conversation format, for backup and por
 
 ## Useful AI in more people's hands
 
-Our mission is to make useful AI accessible to more people. Cissa starts with personal memory: helping families, students, makers, and businesses use what they remember, with the freedom to choose where their data lives and how it is processed.
+Our mission is to put AI and control over personal information into the hands of individuals and communities, so they can use technology to improve their lives.
+
+Cissa starts with personal memory. We are building software people can run at home and working toward a reliable managed service for those who prefer it. Our longer-term direction includes hardware people own and can repair, and sharing open-source code and research with the public.
 
 Developers and contributors are part of that direction: code, documentation, translations, device adapters, and integrations can make the platform useful to more people.
 
