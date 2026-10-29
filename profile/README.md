@@ -1,23 +1,33 @@
 # Cissa
 
-### Wearable memory, on your terms.
+### Something Worth Remembering.
 
-Cissa turns recorded conversations into a personal Journal you can search, revisit, and ask questions about. A wearable pendant captures the audio, the phone app carries it to your server, and Cissa turns it into transcripts and summaries.
+Capture, find, and use the information from your life. Cissa helps you remember conversations, understand what matters, and put that context to work—while keeping control over where your information lives and how it is used.
 
-## Remember what matters
+Remember a detail someone in your family mentioned. Revisit an idea from a study session. Bring the context of a conversation into your next decision. Cissa is being built for these everyday moments.
 
-- **Revisit a conversation.** Find transcripts and summaries in your Journal.
-- **Ask your memory.** Ask questions about your recordings by text or voice.
-- **Follow through.** Turn what was said into tasks and calendar events.
-- **See the day together.** Catch up with a daily brief.
+## From conversations to useful context
 
-## Keep control
+A supported wearable captures audio, the phone app sends it to your Cissa server, and Cissa organizes it into a personal Journal.
 
-Cissa is built for self-hosting: you can run the server yourself and choose how recordings are processed. Export your archive in CCF, Cissa's open conversation format, for backup and portability.
+- **Remember:** revisit transcripts and summaries of your conversations.
+- **Find:** ask questions about your recordings by text or voice.
+- **Act:** turn what was said into tasks and calendar events.
+- **Reflect:** catch up with a daily brief.
 
-The phone app, server, device integrations, and developer tools are being developed together, with reliable capture, useful recall, and ownership of your data at the center.
+## Run it yourself. Keep control.
 
-## Still taking shape
+**Free self-hosting** is central to Cissa. Run the software on your own hardware, choose your models and providers, and use local models or services you select. Core operation does not require Google or Apple sign-in.
+
+Export your archive in CCF, Cissa's open conversation format, for backup and portability. Ownership should include a practical way to use your information elsewhere.
+
+## Useful AI in more people's hands
+
+Our mission is to put useful AI into people's hands, on systems they can own and control. Personal memory is the starting point. We want to make that context useful for families, students, makers, and businesses, alongside the tools and hardware they choose.
+
+Developers and contributors are part of that direction: code, documentation, translations, device adapters, and integrations can make the platform useful to more people.
+
+## Development status
 
 **Cissa is alpha software in active development.** Features and device support are evolving; it is not yet a general release.
 
